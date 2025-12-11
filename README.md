@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/CODE-WITH-AMUL/music-player">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CODE-WITH-AMUL/music-player/main/assets/screenshots/banner-dark.png">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CODE-WITH-AMUL/music-player/main/assets/logo/main.png">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CODE-WITH-AMUL/music-player/main/assets/screenshots/banner-light.png">
       <img src="https://raw.githubusercontent.com/CODE-WITH-AMUL/music-player/main/assets/screenshots/banner-light.png" alt="Music Player Banner" width="600">
     </picture>
